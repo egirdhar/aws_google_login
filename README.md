@@ -6,7 +6,7 @@
 3. User will then present the recieved token to Cognito service
 4. Identity pool from Congnito service will send the AWS temporary credentials to access AWS resources
 
-![system diagram](https://github.com/egirdhar/congnito_apps/blob/main/SystemArch.png)
+![system diagram](https://github.com/egirdhar/aws_google_login/blob/main/SystemArch.png)
 
 ## Source code
 In the code, the *main.tf* file 
